@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import pytest
+import yaml
 from typing import Tuple
 
 from src.Types import DataType
